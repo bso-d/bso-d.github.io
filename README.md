@@ -1,6 +1,6 @@
 # Aniketh Joshi :eyes: 
 
-Electronics and Communication Student | Embedded Systems Enthusiast | 
+Electronics and Communication Student | Embedded Systems Enthusiast 
 
 ## About :book:
 Final year ECE student interest in Embedded Systems, studying at KLE Technological University, Hubli, Karnataka. Currently working on Indoor Positioning System using BLE and Linux Driver Development. 
