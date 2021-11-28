@@ -12,6 +12,7 @@ My passion lies in the field of Embedded Hardware, Software, Microcontrollers/Mi
   - Data Structures
   - Embedded C 
   - Embedded Linux
+  - Embedded Systems
   - Operating Systems
   - Internet of Things
   - Python 
@@ -32,11 +33,15 @@ My passion lies in the field of Embedded Hardware, Software, Microcontrollers/Mi
   - VS Code
   - Linux 
   - Netbeans
-  
-## Socials :phone: 
-  - Twitter 
-  - LinkedIn 
-  - Instagram
-  - Github
-  
+
+## Projects :paperclip:
+  - [Indoor Position for Attendance System](https://github.com/anikethj61/AttendanceSystem)
+  - [Buildroot for Raspberry Pi 4](https://github.com/anikethj61/BuildrootRaspberryPi4)
+  - [NRF52840 Setup](https://github.com/anikethj61/NRF52840)
+
+## Socials :link: 
+  - [Twitter](https://twitter.com/anikethj61) 
+  - [LinkedIn](www.linkedin.com/in/aniketh-j-4ab026128) 
+  - [Instagram](https://www.instagram.com/aniketh._.j/)
+  - [Github](https://github.com/anikethj61)
 
