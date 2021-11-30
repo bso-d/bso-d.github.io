@@ -6,7 +6,7 @@ Electronics and Communication Student | Embedded Systems Enthusiast
 Final year ECE student interest in Embedded Systems, studying at KLE Technological University, Hubli, Karnataka. Currently working on Indoor Positioning System using BLE and Linux Driver Development. 
 My passion lies in the field of Embedded Hardware, Software, Microcontrollers/Microprocessors, Tinkering and building systems using them is what I enjoy doing. 
 
-## Technologies :computer: 
+## Technologies and Languages :computer: 
   - C
   - C++
   - Data Structures
