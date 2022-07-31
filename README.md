@@ -40,7 +40,7 @@ My passion lies in the field of Embedded Hardware, Software, Microcontrollers/Mi
   - [NRF52840 Setup](https://github.com/anikethj61/NRF52840)
 
 ## Socials :link: 
-  - [Twitter](https://twitter.com/anikethj61) 
+  - [Twitter](https://twitter.com/usernumber0002) 
   - [LinkedIn](www.linkedin.com/in/anikethj) 
   - [Instagram](https://www.instagram.com/aniketh._.j/)
   - [Github](https://github.com/anikethj61)
