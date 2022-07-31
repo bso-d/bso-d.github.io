@@ -41,7 +41,7 @@ My passion lies in the field of Embedded Hardware, Software, Microcontrollers/Mi
 
 ## Socials :link: 
   - [Twitter](https://twitter.com/anikethj61) 
-  - [LinkedIn](www.linkedin.com/in/aniketh-j-4ab026128) 
+  - [LinkedIn](www.linkedin.com/in/anikethj) 
   - [Instagram](https://www.instagram.com/aniketh._.j/)
   - [Github](https://github.com/anikethj61)
 
