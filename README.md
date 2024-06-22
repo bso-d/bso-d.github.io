@@ -9,13 +9,12 @@ My passion lies in the field of Embedded Hardware, Software, Microcontrollers/Mi
 ## Technologies and Languages :computer: 
   - C
   - C++
-  - Data Structures
-  - Embedded C 
-  - Embedded Linux
+  - Python
+  - Data Structures 
   - Embedded Systems
   - Operating Systems
   - Internet of Things
-  - Python 
+  
   
 ## Hardware Development :hammer: 
   - Arduino
