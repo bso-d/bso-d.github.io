@@ -22,17 +22,19 @@ My passion lies in the field of Embedded Hardware, Software, Microcontrollers/Mi
   - 8051
   - LPC2148
   - Raspberry Pi 
-  - NRF52840 (Dongle) 
+  - Nordic NRF52840 
   - LoRa RFM98W
-  - ESP8266
+  - ESP8266 / ESP32
+  - STM32
   
 ## Tools :knife: 
   - Arduino IDE
   - KEIL uVision
   - Segger Embedded Studio
   - VS Code
-  - Linux 
-  - Netbeans
+  - Linux
+  - QEMU
+  - CMake
 
 ## Projects :paperclip:
   - [Indoor Position for Attendance System](https://github.com/anikethj61/AttendanceSystem)
@@ -40,7 +42,7 @@ My passion lies in the field of Embedded Hardware, Software, Microcontrollers/Mi
   - [NRF52840 Setup](https://github.com/anikethj61/NRF52840)
 
 ## Socials :link: 
-  - [Twitter](https://twitter.com/usernumber0002) 
+  - [Twitter](https://twitter.com/isthisreallyani) 
   - [LinkedIn](www.linkedin.com/in/anikethj) 
   - [Instagram](https://www.instagram.com/aniketh._.j/)
   - [Github](https://github.com/anikethj61)
