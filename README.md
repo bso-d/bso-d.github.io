@@ -22,7 +22,7 @@ My passion lies in the field of Embedded Software Development. I enjoy learning 
   - Microcontollers: Arduino, 8051, LPC2148, Nordic NRF52840, ESP32, STM32
   - ISA: ARMv8, RISC-V 
   - Sensors: LoRa RFM98W, Bosch BME688 / BME680
-  - Raspberry Pi
+  - SBC: Raspberry Pi
   - Communication Protocols: I2C, SPI, UART, CAN
   - Software Tools: Arduino IDE, KEIL uVision, Segger Embedded Studio, VS Code, QEMU, CMake, MATLAB & Simulink
   - Operating Systems: Windows, Linux (Ubuntu, Raspbian and Archx64) 
