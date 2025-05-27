@@ -3,8 +3,8 @@
 Electronics and Communication Student | Embedded Systems Enthusiast 
 
 ## About :book:
-Final year ECE student interest in Embedded Systems, studying at KLE Technological University, Hubli, Karnataka. Currently working on Indoor Positioning System using BLE and Linux Driver Development. 
-My passion lies in the field of Embedded Hardware, Software, Microcontrollers/Microprocessors, Tinkering and building systems using them is what I enjoy doing. 
+Grauted BE in ECE from KLE Technological University, Hubli, Karnataka. Currently working as IT Analyst at Applied Materials. I work with Indoor Location Servies, its enablement for stakeholders.   
+My passion lies in the field of Embedded Software Development. I enjoy learning about them and tinkering with them. I am actively looking for opportunities to work in the field. 
 
 ## Key Skills and Languages :computer: 
   - Embedded Systems Design
@@ -19,7 +19,7 @@ My passion lies in the field of Embedded Hardware, Software, Microcontrollers/Mi
   
   
 ## Development Tools :hammer: 
-  - Microcontollers: Arduino, 8051, LPC2148, Nordic NRF52840, ESP8266, ESP32, STM32
+  - Microcontollers: Arduino, 8051, LPC2148, Nordic NRF52840, ESP32, STM32
   - ISA: ARMv8, RISC-V 
   - Sensors: LoRa RFM98W, Bosch BME688 / BME680
   - Raspberry Pi
@@ -34,8 +34,6 @@ My passion lies in the field of Embedded Hardware, Software, Microcontrollers/Mi
   - [NRF52840 Setup](https://github.com/anikethj61/NRF52840)
 
 ## Socials :link: 
-  - [Twitter](https://twitter.com/isthisreallyani) 
   - [LinkedIn](www.linkedin.com/in/anikethj) 
-  - [Instagram](https://www.instagram.com/aniketh._.j/)
   - [Github](https://github.com/anikethj61)
 
